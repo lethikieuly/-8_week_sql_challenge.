@@ -1,5 +1,5 @@
 ## CASE STUDY#2- PIZZA RUNNER 
-![This is an image](![image](https://user-images.githubusercontent.com/73864424/144991719-308a99f0-ff81-45d0-821b-445812a9133c.png))
+![image](https://user-images.githubusercontent.com/73864424/144991719-308a99f0-ff81-45d0-821b-445812a9133c.png)
 ## Introduction
 Did you know that over 115 million kilograms of pizza is consumed daily worldwide??? (Well according to Wikipedia anyway…)
 
